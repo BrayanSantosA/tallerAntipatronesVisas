@@ -1,4 +1,4 @@
-# Taller: La Oficina de Visas del Caos
+# La Oficina de Visas del Caos
 
 
 ## Cómo compilar y ejecutar
