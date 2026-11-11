@@ -1,7 +1,5 @@
 # Taller: La Oficina de Visas del Caos
 
-**Tema:** Antipatrones de diseño de software y cómo salir de ellos con patrones
-**Integrante(s):** _(escriba aquí su nombre)_
 
 ## Cómo compilar y ejecutar
 Desde la carpeta `tallerAntipatronesVisas`:
